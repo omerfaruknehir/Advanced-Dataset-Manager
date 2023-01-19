@@ -1,6 +1,0 @@
-D:\Code\C#\Advanced Dataset Manager\Advanced Dataset Manager\bin\Release\Advanced Dataset Manager.dll
-D:\Code\C#\Advanced Dataset Manager\Advanced Dataset Manager\bin\Release\Advanced Dataset Manager.pdb
-D:\Code\C#\Advanced Dataset Manager\Advanced Dataset Manager\obj\Release\Advanced Dataset Manager.csproj.AssemblyReference.cache
-D:\Code\C#\Advanced Dataset Manager\Advanced Dataset Manager\obj\Release\Advanced Dataset Manager.csproj.CoreCompileInputs.cache
-D:\Code\C#\Advanced Dataset Manager\Advanced Dataset Manager\obj\Release\Advanced Dataset Manager.dll
-D:\Code\C#\Advanced Dataset Manager\Advanced Dataset Manager\obj\Release\Advanced Dataset Manager.pdb
